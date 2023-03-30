@@ -1,1 +1,6 @@
 Hello prabaht jaiswar is here learning devops rigth now
+
+i am new line which is added by the other person
+
+so we have to commit this changes
+
