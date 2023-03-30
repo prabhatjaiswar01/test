@@ -1,3 +1,7 @@
 choclate 
 mango 
 apple
+banana
+graps
+orange
+
